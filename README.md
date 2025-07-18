@@ -35,7 +35,9 @@ Sistema modular desarrollado en Python para responder consultas legales utilizan
 ---
 
 ## ▶️ Cómo ejecutar el agente legal
-### clonar el repositorio desde github
+### 1. Clonar el repositorio desde github
+- git clone https://github.com/RaulParamo/agente-legal-inteligente.git
+- cd agente-legal-inteligente  pip install requests
 ### 2. Tener [Ollama](https://ollama.com) instalado y corriendo:
 
 ```bash
