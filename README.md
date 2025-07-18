@@ -35,8 +35,8 @@ Sistema modular desarrollado en Python para responder consultas legales utilizan
 ---
 
 ## ▶️ Cómo ejecutar el agente legal
-
-### 1. Tener [Ollama](https://ollama.com) instalado y corriendo:
+### clonar el repositorio desde github
+### 2. Tener [Ollama](https://ollama.com) instalado y corriendo:
 
 ```bash
 ollama run llama3
